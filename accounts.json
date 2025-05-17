@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Conta AR 55",
+    "description": "Conta nível máximo com personagens e armas raras",
+    "price": 299.90,
+    "image": "img/account1.jpg",
+    "category": "ar55",
+    "details": {
+      "adventureRank": 55,
+      "fiveStarChars": 8,
+      "fiveStarWeapons": 12,
+      "primogems": 25000,
+      "pity": "Garantido"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Conta AR 50",
+    "description": "Conta intermediária com bons personagens",
+    "price": 199.90,
+    "image": "img/account2.jpg",
+    "category": "ar50",
+    "details": {
+      "adventureRank": 50,
+      "fiveStarChars": 5,
+      "fiveStarWeapons": 7,
+      "primogems": 15000,
+      "pity": "50/50"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Conta Starter",
+    "description": "Conta inicial com personagens 5★",
+    "price": 99.90,
+    "image": "img/account3.jpg",
+    "category": "starter",
+    "details": {
+      "adventureRank": 20,
+      "fiveStarChars": 2,
+      "fiveStarWeapons": 1,
+      "primogems": 5000,
+      "pity": "Nenhum"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Conta AR 56",
+    "description": "Conta endgame com todos os personagens",
+    "price": 499.90,
+    "image": "img/account1.jpg",
+    "category": "ar55",
+    "details": {
+      "adventureRank": 56,
+      "fiveStarChars": 15,
+      "fiveStarWeapons": 20,
+      "primogems": 30000,
+      "pity": "Garantido"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Conta AR 45",
+    "description": "Conta para jogadores intermediários",
+    "price": 149.90,
+    "image": "img/account2.jpg",
+    "category": "ar50",
+    "details": {
+      "adventureRank": 45,
+      "fiveStarChars": 3,
+      "fiveStarWeapons": 4,
+      "primogems": 10000,
+      "pity": "50/50"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Conta Starter 5★",
+    "description": "Conta inicial com personagem 5★ específico",
+    "price": 129.90,
+    "image": "img/account3.jpg",
+    "category": "starter",
+    "details": {
+      "adventureRank": 10,
+      "fiveStarChars": 1,
+      "fiveStarWeapons": 0,
+      "primogems": 3000,
+      "pity": "Nenhum"
+    }
+  }
+]
